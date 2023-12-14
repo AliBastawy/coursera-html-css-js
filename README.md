@@ -11,9 +11,9 @@ This repository contains all of the source code used in the course called HTML, 
 * Module-5 - Coding
 
 
-<!-- # Outputs :
+# Outputs :
 
-* [Module-2](https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-2/index.html)
-* [Module-3](https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-3/index.html)
-* [Module-4](https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-4/index.html)
-* [Module-5](https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-5/index.html) -->
+* [Module-2](https://alibastawy.github.io/coursera-html-css-js/Assignments/module2-solution/index.html)
+* [Module-3](https://alibastawy.github.io/coursera-html-css-js/Assignments/module-3-solution/index.html)
+* [Module-4](https://alibastawy.github.io/coursera-html-css-js/Assignments/module-4-solution/index.html)
+* [Module-5](https://alibastawy.github.io/coursera-html-css-js/Assignments/module-5-solution/index.html)
